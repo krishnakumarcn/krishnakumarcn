@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there..  I'm Krishnakumar CN !!
 
-Engineering Lead at <a href="https://www.flujo.io"> flujo <a/>
+Engineering Lead at <a href="https://www.flujo.io"> Flujo. <a/> Currently building a communication & collaboration suite for teams.
 
 
 <a href="https://github.com/krishnakumarcn/krishnakumarcn">
