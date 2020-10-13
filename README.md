@@ -2,7 +2,7 @@
 
 Currently working as an Engineering Lead at <a href="https://www.flujo.io">Flujo <a/> - for building the future of communication & collaboration suites.
   
-If you are into <a href="https://www.flutter.dev">Flutter</a>- the new sensational mobile app development framework, chances are that you might be noticed me on StackOverflow asking a heck lot of questions and answering more than that.t😜. 
+If you are into <a href="https://www.flutter.dev">Flutter</a>- the new sensational mobile app development framework, chances are that you might be noticed me on StackOverflow asking a heck lot of questions and answering more than that.😜. 
   <a href="https://stackoverflow.com/users/5546443/krishnakumarcn">krishnakumarcn - top 4% this year on StackOverflow.</a>
 
 <a href="https://github.com/krishnakumarcn/krishnakumarcn">
