@@ -1,4 +1,4 @@
-### Hi there 👋! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Krishnakumar CN and I'm an Engineering Lead working at Flujo. I'm from Kerala, India.
 
