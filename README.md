@@ -1,4 +1,3 @@
-markdown: kramdown
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there..  I'm Krishnakumar CN
 <p>
   <a href="https://www.linkedin.com/in/krishnakumarcn" target="_blank">
