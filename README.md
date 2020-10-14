@@ -1,24 +1,24 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there..  I'm Krishnakumar CN
 <p>
-  <a href="https://www.linkedin.com/in/krishnakumarcn">
+  <a href="https://www.linkedin.com/in/krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
-  <a href="https://www.instagram.com/krishnakumar.c.n">
+  <a href="https://www.instagram.com/krishnakumar.c.n" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
-  <a href="https://medium.com/@krishnakumarcn">
+  <a href="https://medium.com/@krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
   </a>
-  <a href="https://dev.to/krishnakumarcn">
+  <a href="https://dev.to/krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" height=25>
   </a>
-  <a href="https://github.com/krishnakumarcn">
+  <a href="https://github.com/krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/github-%230A0A0A.svg?&style=for-the-badge&logo=github&logoColor=white" height=25>
   </a>
 <!--   <a href="https://play.google.com/store/apps/dev?id=5912633885029902327">
     <img src="https://img.shields.io/badge/google%20play-%23414141.svg?&style=for-the-badge&logo=google-play&logoColor=white" height=25>
   </a> -->
-  <a href="https://stackoverflow.com/users/5546443/krishnakumarcn">
+  <a href="https://stackoverflow.com/users/5546443/krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/stack%20overflow-%23FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" height=25>
   </a>
 <!--   <a href="https://drive.google.com/file/d/1varr_WGVlLAL8tgNhUWkwmQpFHvWdZ0x/view?usp=sharing">
