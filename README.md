@@ -11,6 +11,7 @@ If you are into <a href="https://www.flutter.dev">Flutter</a>- the new sensation
 
 
 
+<h1 align='center'></h1>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=http://github.com/krishnakumarcn)
 <!--
