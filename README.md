@@ -1,5 +1,7 @@
 
-### Hi there..  I'm Krishnakumar CN
+### Hello,
+### I'm <a href="https://krishnakumar.cn" target="_blank">Krishnakumar CN</a>
+
 <p>
   <a href="https://www.linkedin.com/in/krishnakumarcn" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
